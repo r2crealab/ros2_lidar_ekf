@@ -1,0 +1,1 @@
+/home/r2/ros_ws/src/ldrobot-lidar-ros2/ldlidar_node/launch/ldlidar_slam_ekf.launch.py

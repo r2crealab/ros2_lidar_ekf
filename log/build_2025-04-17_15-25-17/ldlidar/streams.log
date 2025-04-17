@@ -1,0 +1,21 @@
+[0.077s] Invoking command in '/home/r2/ros_ws/build/ldlidar': CMAKE_PREFIX_PATH=/home/r2/ros_ws/install/ldlidar_node:/home/r2/ros_ws/install/ldlidar_component:/home/r2/ros_ws/install/mpu6050driver:/home/r2/ros_ws/install/ldlidar:/home/r2/ros2_lidar/install/ldlidar_stl_ros2:/home/r2/ros2_lidar/install/obstacle_detector:/home/r2/ros2_lidar/install/my_launch:/home/r2/ros2_lidar/install/mpu6050_imu:/opt/ros/humble /usr/bin/cmake --build /home/r2/ros_ws/build/ldlidar -- -j4 -l4
+[0.250s] Invoked command in '/home/r2/ros_ws/build/ldlidar' returned '0': CMAKE_PREFIX_PATH=/home/r2/ros_ws/install/ldlidar_node:/home/r2/ros_ws/install/ldlidar_component:/home/r2/ros_ws/install/mpu6050driver:/home/r2/ros_ws/install/ldlidar:/home/r2/ros2_lidar/install/ldlidar_stl_ros2:/home/r2/ros2_lidar/install/obstacle_detector:/home/r2/ros2_lidar/install/my_launch:/home/r2/ros2_lidar/install/mpu6050_imu:/opt/ros/humble /usr/bin/cmake --build /home/r2/ros_ws/build/ldlidar -- -j4 -l4
+[0.262s] Invoking command in '/home/r2/ros_ws/build/ldlidar': CMAKE_PREFIX_PATH=/home/r2/ros_ws/install/ldlidar_node:/home/r2/ros_ws/install/ldlidar_component:/home/r2/ros_ws/install/mpu6050driver:/home/r2/ros_ws/install/ldlidar:/home/r2/ros2_lidar/install/ldlidar_stl_ros2:/home/r2/ros2_lidar/install/obstacle_detector:/home/r2/ros2_lidar/install/my_launch:/home/r2/ros2_lidar/install/mpu6050_imu:/opt/ros/humble /usr/bin/cmake --install /home/r2/ros_ws/build/ldlidar
+[0.293s] -- Install configuration: "Release"
+[0.295s] -- Execute custom install script
+[0.297s] -- Up-to-date symlink: /home/r2/ros_ws/install/ldlidar/share/ament_index/resource_index/package_run_dependencies/ldlidar
+[0.299s] -- Up-to-date symlink: /home/r2/ros_ws/install/ldlidar/share/ament_index/resource_index/parent_prefix_path/ldlidar
+[0.301s] -- Up-to-date symlink: /home/r2/ros_ws/install/ldlidar/share/ldlidar/environment/ament_prefix_path.sh
+[0.302s] -- Up-to-date symlink: /home/r2/ros_ws/install/ldlidar/share/ldlidar/environment/ament_prefix_path.dsv
+[0.303s] -- Up-to-date symlink: /home/r2/ros_ws/install/ldlidar/share/ldlidar/environment/path.sh
+[0.305s] -- Up-to-date symlink: /home/r2/ros_ws/install/ldlidar/share/ldlidar/environment/path.dsv
+[0.306s] -- Up-to-date symlink: /home/r2/ros_ws/install/ldlidar/share/ldlidar/local_setup.bash
+[0.307s] -- Up-to-date symlink: /home/r2/ros_ws/install/ldlidar/share/ldlidar/local_setup.sh
+[0.308s] -- Up-to-date symlink: /home/r2/ros_ws/install/ldlidar/share/ldlidar/local_setup.zsh
+[0.310s] -- Up-to-date symlink: /home/r2/ros_ws/install/ldlidar/share/ldlidar/local_setup.dsv
+[0.310s] -- Symlinking: /home/r2/ros_ws/install/ldlidar/share/ldlidar/package.dsv
+[0.353s] -- Up-to-date symlink: /home/r2/ros_ws/install/ldlidar/share/ament_index/resource_index/packages/ldlidar
+[0.354s] -- Up-to-date symlink: /home/r2/ros_ws/install/ldlidar/share/ldlidar/cmake/ldlidarConfig.cmake
+[0.356s] -- Up-to-date symlink: /home/r2/ros_ws/install/ldlidar/share/ldlidar/cmake/ldlidarConfig-version.cmake
+[0.357s] -- Up-to-date symlink: /home/r2/ros_ws/install/ldlidar/share/ldlidar/package.xml
+[0.365s] Invoked command in '/home/r2/ros_ws/build/ldlidar' returned '0': CMAKE_PREFIX_PATH=/home/r2/ros_ws/install/ldlidar_node:/home/r2/ros_ws/install/ldlidar_component:/home/r2/ros_ws/install/mpu6050driver:/home/r2/ros_ws/install/ldlidar:/home/r2/ros2_lidar/install/ldlidar_stl_ros2:/home/r2/ros2_lidar/install/obstacle_detector:/home/r2/ros2_lidar/install/my_launch:/home/r2/ros2_lidar/install/mpu6050_imu:/opt/ros/humble /usr/bin/cmake --install /home/r2/ros_ws/build/ldlidar

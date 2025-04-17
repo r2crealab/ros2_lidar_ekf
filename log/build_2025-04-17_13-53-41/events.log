@@ -1,0 +1,6 @@
+[0.000000] (-) TimerEvent: {}
+[0.000931] (-) JobUnselected: {'identifier': 'ldlidar'}
+[0.001355] (-) JobUnselected: {'identifier': 'ldlidar_component'}
+[0.001452] (-) JobUnselected: {'identifier': 'ldlidar_node'}
+[0.001538] (-) JobUnselected: {'identifier': 'mpu6050driver'}
+[0.001623] (-) EventReactorShutdown: {}
